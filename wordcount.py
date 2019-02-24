@@ -1,3 +1,7 @@
+'''
+    This Spark Program counts total number of words in a file.
+'''
+
 from pyspark import SparkContext
 
 class WordCount:
